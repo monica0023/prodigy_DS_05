@@ -1,1 +1,5 @@
 # prodigy_DS_05
+# Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors. 
+# DESCRIPTION
+ Delving into traffic accident data as a Data Science Intern at Prodigy Infotech was a journey of discovery. Analyzing road conditions, weather influences, and time of day patterns, I unearthed critical insights. Using Python and Seaborn, I visualized accident hotspots and contributing factors, paving the way for targeted safety measures. Identifying key trends in accidents allowed for strategic interventions in high-risk areas. Grateful for this impactful experience, contributing to data-driven decisions for enhanced road safety. 🌐🚗💡
+ Geospatial visualization pinpointed accident hotspots, providing a spatial understanding of areas prone to incidents. This valuable information forms the basis for geographically targeted safety initiatives.The iterative nature of the analysis allowed for continuous refinement of safety measures. Regularly revisiting the data ensures that strategies evolve with changing conditions, maintaining their relevance.
